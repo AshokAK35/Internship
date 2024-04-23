@@ -1,0 +1,52 @@
+h1{
+    background-color: black;
+    color: aqua;
+}
+p{
+    color: brown;
+}
+.red{
+    background-color: red;
+}
+.clickme{
+background-color: rgb(255, 68, 0);
+border: none;
+cursor: pointer;
+color: white;
+border-radius: 7px;
+}
+.clickme:hover{
+background-color: blue;
+color: white;
+}
+.MemberLogin{
+    font-size: x-large;
+    color: aqua;
+}
+.login{
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    width: 160px; height:35px;
+cursor:pointer;    
+}
+.Username{
+    background-color: darkgray;
+    border-radius: 7px;
+    height: 35px;
+}
+.Password{
+    background-color: darkgray;
+    border-radius: 7px;
+    height:30px ;
+}
+.body{
+    text-align: center;
+    background-color: aqua;
+
+}
+.fieldset{
+    width: 300px;
+    background-color: white;
+}
