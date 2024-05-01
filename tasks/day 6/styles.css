@@ -1,0 +1,176 @@
+body{
+    background-color: white;
+    position: relative;
+}
+*{
+    margin: 0%;
+}
+/* for navigation bar */
+nav{
+    display: flex;
+    padding: 10px;
+    background-color: white;
+    align-items: center;
+    align-content: center;
+   position: sticky;
+   top: 0%;
+   background: rgba(255, 255, 255, 0.47);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(7.3px);
+-webkit-backdrop-filter: blur(7.3px);
+border: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    /* padding-left: 320px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+/* hero section */
+.appleimg{
+    text-align: center;
+    padding-bottom: 30px;
+    background-color: white;
+}
+.appleimg img{
+    height: 600px;
+    margin-left: 0%;
+    width: 1400px;
+    margin: 50px;
+    margin-right: 50px;
+}
+.appleimg h2{
+    font-size: 60px;
+    margin-top: 20px;
+    text-align: center;
+}
+.appleimg p{
+    margin-top: 30px;
+    text-align: center;
+    font-size: larger;
+    
+}
+.learnmore{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:8px;
+    padding-bottom:8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border:none;
+    background-color: rgb(32, 32, 212);
+    color: white;
+    font-size: 18px;
+}
+.learnmore:hover{
+    background-color: rgb(68, 68, 203);
+    border-style: solid;
+}
+/* middle image section */
+.caption{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.caption h1{
+font-size: 50px;
+}
+.caption p{
+    font-size: 30px;
+}
+.iphone15 img{
+    height: 600px;
+    margin-left: 0%;
+    width: 1537px;
+    
+
+}
+.buy{
+    text-align: center;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top:8px;
+    padding-bottom:8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-color: rgb(70, 155, 234);
+    background-color:black;
+    color: rgb(70, 155, 234);
+    font-size: 18px;
+    margin-left: 15px;
+    border-style: solid;
+
+
+}
+.buy:hover{
+    background-color: rgb(70, 155, 234);
+    border-style: solid;
+    color: white;
+}
+/* photo grid */
+.maindiv{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+  /* justify-content: space-between; */
+}
+.visionpro,.macair{
+    /* flex: 1; */
+    margin-right: 10px;
+}
+.visionpro img {
+    width: 700px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;;
+}
+.macair img{
+    width: 700px;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.maindiv-2{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+.apple-card{
+    width: 700px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.ipad{
+    /* width: 700px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;; */
+}
+footer ul{
+    
+    list-style-type: none; color:rgb(122, 117, 117);
+    font-size: 13px;
+    line-height: 22px;
+   
+}
+footer{
+    background-color: rgb(237, 236, 236);
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    padding-top: 40px;
+    text-align: center;
+}

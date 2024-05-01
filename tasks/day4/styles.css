@@ -1,0 +1,40 @@
+.body{
+    background-color: gray;
+}
+.container{
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    padding: 10px;
+    gap: 10px;
+}
+
+.div1{
+    background-color:white;
+padding-left: 150px;
+padding-right: 170px;
+    margin-left: 10px;
+}
+
+.div2{
+    background-color:white;
+    padding-left: 300px;
+    padding-right: 170px;
+}
+.div3{
+    background-color: white;
+    padding-left: 150px;
+    padding-right: px;
+}
+.h1{
+    background-color: blue;
+    display: block;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+body{
+    background-color: gray;
+    color: aqua;
+}
