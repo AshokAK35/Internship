@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<button onclick="lighton()">turn on</button>
+<img  id="lightbulb" src="../day9 javascrptday1/Image/Lightoff.png" alt="" style="width: 300px;">
+<button onclick="lightoff()">turn off</button>
+
+<script >
+    function lighton(){
+        document.getElementById("lightbulb").src="../day9 javascrptday1/Image/Lighton.png";
+    }
+    function lightoff(){
+        document.getElementById("lightbulb").src="../day9 javascrptday1/Image/Lightoff.png";
+    }
+</script>
+
+</body>
+</html>
