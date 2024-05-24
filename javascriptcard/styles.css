@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://a.cdn-hotels.com/gdcs/production20/d1189/654a72d0-10a4-4900-b49d-d0cd796baa33.jpg?impolicy=fcrop&w=800&h=533&q=medium");
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 80px;
+    margin-bottom: 10px; 
+}
+.card-text{
+    text-align: justify;
+    height: 300px;
+    width: 239px;
+    /* text-overflow:hidden; */
+    overflow:scroll;
+}

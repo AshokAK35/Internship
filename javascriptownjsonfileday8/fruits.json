@@ -1,0 +1,75 @@
+{
+    "fruits": [
+      {
+        "name": "Apple",
+        "color": "Red",
+        "average_weight_grams": 182,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      },
+      {
+        "name": "Banana",
+        "color": "Yellow",
+        "average_weight_grams": 118,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1574226516831-e1dff420e38e"
+      },
+      {
+        "name": "Orange",
+        "color": "Orange",
+        "average_weight_grams": 131,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1502764613149-7f1d229e2307"
+      },
+      {
+        "name": "Strawberry",
+        "color": "Red",
+        "average_weight_grams": 12,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+      },
+      {
+        "name": "Lemon",
+        "color": "Yellow",
+        "average_weight_grams": 65,
+        "eaten_raw": false,
+        "image_url": "https://images.unsplash.com/photo-1506807803488-8eafc15316c5"
+      },
+      {
+        "name": "Pineapple",
+        "color": "Brown",
+        "average_weight_grams": 905,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1502741126161-b048400d005f"
+      },
+      {
+        "name": "Grape",
+        "color": "Purple",
+        "average_weight_grams": 5,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd"
+      },
+      {
+        "name": "Watermelon",
+        "color": "Green",
+        "average_weight_grams": 9200,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1567306301408-9b74779a11af"
+      },
+      {
+        "name": "Kiwi",
+        "color": "Brown",
+        "average_weight_grams": 75,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1574226516831-e1dff420e38e"
+      },
+      {
+        "name": "Blueberry",
+        "color": "Blue",
+        "average_weight_grams": 0.5,
+        "eaten_raw": true,
+        "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+      }
+    ]
+  }
+  

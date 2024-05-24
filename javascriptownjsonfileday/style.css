@@ -1,0 +1,11 @@
+.darkmode{
+    background-color: black;
+    color: aliceblue;
+}
+button{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
